@@ -2,3 +2,5 @@ I am creating a file in git repository
 My details are :
 
 RajiSajja
+
+I am trying git commands
